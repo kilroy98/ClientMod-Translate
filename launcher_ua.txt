@@ -1,0 +1,49 @@
+example: text="REPLACE THIS TEXT FOR TRANSLATE"
+example: text="REPLACE THIS TEXT FOR TRANSLATE"
+example: text="REPLACE THIS TEXT FOR TRANSLATE"
+example: text="REPLACE THIS TEXT FOR TRANSLATE"
+example: text="REPLACE THIS TEXT FOR TRANSLATE"
+example: text="REPLACE THIS TEXT FOR TRANSLATE"
+example: text="REPLACE THIS TEXT FOR TRANSLATE"
+example: text="REPLACE THIS TEXT FOR TRANSLATE"
+example: text="REPLACE THIS TEXT FOR TRANSLATE"
+example: text="REPLACE THIS TEXT FOR TRANSLATE"
+
+
+<?xml version="1.0" type="translate"?>
+<Translate>
+   <Language text="Ukrainian"/>
+   <Token tag="Install_Button" text="ВСТАНОВИТИ"/>
+   <Token tag="Install_ErrorNotAbsolute" text="Шлях повинен бути абсолютним!"/>
+   <Token tag="Install_ErrorNotDir" text="Це не папка!"/>
+   <Token tag="Install_ErrorNotEmptyDir" text="Папка повинна бути порожньою!"/>
+   <Token tag="Install_ErrorInstall" text="Щось заважає роботі лаунчера."/>
+   <Token tag="Title_Error" text="Помилка"/>
+   <Token tag="Play_Button" text="ГРАТИ"/>
+   <Token tag="Launcher_CheckUpdate" text="ПЕРЕВІРКА ОНОВЛЕНЬ ЛАУНЧЕРА..."/>
+   <Token tag="Game_CheckUpdate" text="ПЕРЕВІРКА ОНОВЛЕНЬ ГРИ..."/>
+   <Token tag="Download_Update" text="ЗАВАНТАЖЕННЯ ОНОВЛЕННЯ..."/>
+   <Token tag="Game_ReadyToPlay" text="ОНОВЛЕНО ДО ОСТАННЬОЇ ВЕРСІЇ!"/>
+   <Token tag="Game_UpdateError" text="ПОМИЛКА ОНОВЛЕННЯ ГРИ!"/>
+   <Token tag="Launcher_Unpacking" text="РОЗПАКУВАННЯ"/>
+   <Token tag="Launcher_UpdateError" text="ПОМИЛКА ОНОВЛЕННЯ ЛАУНЧЕРА!"/>
+   
+   <Token tag="Settings_DisplayMode" text="Режим відображення"/>
+   <Token tag="Settings_WindowFullScreen" text="Повноекранний"/>
+   <Token tag="Settings_WindowNormal" text="Віконний"/>
+   <Token tag="Settings_WindowNoBorder" text="Повний екран без полів"/>
+   <Token tag="Settings_VideoResolution" text="Роздільна здатність екрану"/>
+   <Token tag="Settings_RefreshRate" text="Частота оновлення"/>
+   <Token tag="Settings_AspectRatio" text="Співвідношення сторін"/>
+   <Token tag="Settings_Default" text="За замовчуванням"/>
+   <Token tag="Settings_GameDX" text="DirectX Гри"/>
+   <Token tag="Settings_LauncherDX" text="DirectX Лаунчера"/>
+   <Token tag="Settings_New" text="Нове"/>
+   <Token tag="Settings_LaunchParams" text="Параметри запуску"/>
+   
+   <Token tag="Launcher_AutoplayUpdateRestart" text="Лаунчер оновлено.\nБудь ласка, запустіть його ще раз."/>
+   <Token tag="Launcher_AutoplayUpdateError" text="Помилка оновлення.\nБудь ласка, перезапустіть лаунчер."/>
+   <Token tag="Launcher_InvalidPath" text="Знайдено недійсні символи. Гра не може бути запущена.%invalid_path%"/>
+   <Token tag="Launcher_RunAdmin" text="Спробуйте перезапустити ClientMod як адміністратор."/>
+
+</Translate>
